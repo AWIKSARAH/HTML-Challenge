@@ -15,15 +15,16 @@ header {
     text-align: center;
     background-size: cover;
     border-radius: 10px;
-    background-size: cover;
+    
     
 }
 
 #Top {
 font-size: 50px;
-padding: 200px;
+padding: 202px;
 color: antiquewhite;
-margin-right: 25px;
+margin-right: 15px;
+width: 100%;
 }
 
 
@@ -74,7 +75,24 @@ footer {
 
   .menu {
     display: flex;
+   height: 700px;
+   width: 500px;
   }
-  .img {
-    
+img {
+width: 250px;
+height: 250px;
+margin-left: 150px;
+  }
+
+.lii {
+border: 10px, #333;
+width: 250px;
+flood-color: aqua;
+
+  }
+  ul {
+    font-size: 35px;
+    font-family: monospace;
+    color: rgb(65, 46, 46);
+    font-weight: 200;
   }
