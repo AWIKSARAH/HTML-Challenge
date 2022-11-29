@@ -32,7 +32,7 @@ p {
 
 
 .global {
-    background-image: url(car.gif);
+    background-image: url(Assets/img/car.gif);
     color: var(--font-main-color);
     height:250px;
     background-size: cover;
