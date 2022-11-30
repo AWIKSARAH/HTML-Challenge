@@ -118,14 +118,14 @@ aside {
     background-color: #5c6b71;
     opacity: 0.6;
 }
-.main_stuff {
+.news-sub {
     flex: 75%;
     margin-left: 100px;
 }
 article {
     padding: 10px;
 }
-.gallery h2{
+.news h2{
     padding-bottom: 20px;
     border-bottom: 2px solid var(--font-main-color);
 }
